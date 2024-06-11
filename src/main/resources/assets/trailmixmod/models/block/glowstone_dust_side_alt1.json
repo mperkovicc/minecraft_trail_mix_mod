@@ -1,0 +1,7 @@
+{
+    "render_type": "minecraft:cutout",
+    "parent": "trailmixmod:block/glowstone_dust_side_alt",
+    "textures": {
+        "line": "minecraft:block/redstone_dust_line1"
+    }
+}
